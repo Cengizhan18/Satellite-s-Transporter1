@@ -1,0 +1,7 @@
+bmp180.c:44:6:read_calliberation_data	48	static
+bmp180.c:66:10:Get_UTemp	32	static
+bmp180.c:76:7:BMP180_GetTemp	16	static
+bmp180.c:87:10:Get_UPress	40	static
+bmp180.c:112:7:BMP180_GetPress	24	static
+bmp180.c:139:7:BMP180_GetAlt	16	static
+bmp180.c:145:6:BMP180_Start	8	static

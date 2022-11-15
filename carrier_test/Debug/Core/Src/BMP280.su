@@ -1,0 +1,7 @@
+BMP280.c:7:7:I2C_writeByte	32	static
+BMP280.c:11:7:I2C_readByte	32	static
+BMP280.c:16:9:BMP280_getID	112	static
+BMP280.c:23:9:BMP280_getStatus	112	static
+BMP280.c:45:6:BMP280_Init	120	static
+BMP280.c:161:6:BMP280Temp_Pres_Calc	160	static
+BMP280.c:201:7:BMP280_readAltitude	32	static
